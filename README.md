@@ -1,2 +1,2 @@
 # alpine
-Lightweight docker image on alpine
+Lightweight php-fpm with mysql-cli docker image on alpine
